@@ -25,7 +25,7 @@
 
 | 서비스 소개 | 단계별 가이드 |
 | --- | --- |
-| [楽天市場クーポンの使い方：併用・使えない場合の確認](rakuten-coupons.ja.md) | [楽天市場クーポンの併用と注文金額の確認](rakuten-coupons-combination.ja.md) |
+| [楽天市場クーポンの使い方：併用・使えない場合の確認](rakuten-coupons.ja.md) | [楽天市場クーポンの併用と注文金額の確認](rakuten-coupons-combination.ja.md)<br>[注文キャンセルとポイント・クーポン返還（日本語）](https://appguideplus.com/ja/rakuten-coupons/cancellation/?utm_source=github) |
 
 ## 출처와 업데이트
 
