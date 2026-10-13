@@ -2,7 +2,7 @@
 
 「併用可能」と表示されていても、同じ種類のクーポンを自由に重ねられるわけではありません。対象商品とクーポンの種類を分けて確認しましょう。
 
-[楽天市場クーポン](rakuten-coupons.ja.md) · [全ガイド](README.md) · [ウェブ版](https://appguideplus.com/ja/rakuten-coupons/combination/)
+[楽天市場クーポン](rakuten-coupons.ja.md) · [全ガイド（韓国語）](README.md) · [ウェブ版](https://appguideplus.com/ja/rakuten-coupons/combination/)
 
 ## myクーポンで条件を見る
 
@@ -56,3 +56,5 @@ myクーポンで利用期間、対象商品、利用上限を開きます。獲
 内容確認日: 2026-09-14. GitHub版の編集日: 2026-09-14.
 
 AppGuide+による独立した解説です。各サービスの公式サポートではありません。
+
+リンク先のAppGuide+解説にはアフィリエイトリンクが含まれ、そのリンクから購入すると運営者に報酬が支払われることがあります。
