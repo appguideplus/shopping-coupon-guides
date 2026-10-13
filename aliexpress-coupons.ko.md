@@ -2,7 +2,7 @@
 
 받은 쿠폰이 있어도 계정·상품·주문 조건에 따라 사용할 수 없을 수 있습니다. 쿠폰함의 조건과 결제 화면의 할인 내역을 함께 살펴보세요.
 
-[전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/aliexpress-coupons/)
+[전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/aliexpress-coupons/?utm_source=github)
 
 ## 내 계정에 맞는 혜택인가요?
 
@@ -50,11 +50,14 @@
 
 - [테무 쿠폰 사용법: 적용 안 되는 이유와 최소 주문 금액](temu-coupons.ko.md)
 
+제휴 안내: 연결된 AppGuide+ 웹 안내에는 제휴 링크가 포함됩니다. 이를 통한 구매에 따라 운영자가 수수료를 받을 수 있으며, 쿠폰 지급·할인 적용은 계정과 주문 조건에 따릅니다.
+
 ## 출처와 확인일
 
 - [AliExpress 공식 사이트](https://www.aliexpress.com/)
 - [참여 상품의 배송·반품 조건](https://cdn.contract.alibaba.com/terms/c_end_product_protocol/20240529164446731/20240529164446731.html)
 
-내용 확인일: 2026-09-13. GitHub판 편집일: 2026-09-14.
+내용 확인일: 2026-09-13. GitHub판 편집일: 2026-10-13.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
