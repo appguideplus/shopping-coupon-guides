@@ -2,7 +2,7 @@
 
 코드가 있다는 사실만으로 모든 상품과 계정에서 할인되는 것은 아닙니다. 배송 국가와 통화, 구매 대상 조건을 맞춘 뒤 주문 화면의 실제 할인액을 확인하세요.
 
-[AliExpress 쿠폰](aliexpress-coupons.ko.md) · [전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/aliexpress-coupons/checkout/)
+[AliExpress 쿠폰](aliexpress-coupons.ko.md) · [전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/aliexpress-coupons/checkout/?utm_source=github)
 
 ## 같은 상품 조건으로 비교
 
@@ -42,11 +42,14 @@ AliExpress의 Account → Coupons에서 받은 쿠폰을 찾습니다. 아래 �
 
 - [알리익스프레스 쿠폰 사용법과 적용 전 확인사항](aliexpress-coupons.ko.md)
 
+제휴 안내: 연결된 AppGuide+ 웹 안내에는 제휴 링크가 포함됩니다. 이를 통한 구매에 따라 운영자가 수수료를 받을 수 있으며, 쿠폰 지급·할인 적용은 계정과 주문 조건에 따릅니다.
+
 ## 출처와 확인일
 
 - [AliExpress 내 쿠폰 확인](https://www.aliexpress.com/)
 - [쿠폰함 위치·참여 상품의 배송 조건](https://cdn.contract.alibaba.com/terms/c_end_product_protocol/20240529164446731/20240529164446731.html)
 
-내용 확인일: 2026-09-14. GitHub판 편집일: 2026-09-14.
+내용 확인일: 2026-09-14. GitHub판 편집일: 2026-10-13.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
